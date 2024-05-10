@@ -10,13 +10,13 @@
 
 ## Technical Skills
 
-- Skills:
+- **Skills**:
   - Data Analysis, Web Scraping
   - Natural Language Processing, Machine Learning, Deep Learning
-- Programming Languages:
+- **Programming Languages**:
   - Python, C++, SQL, JavaScript
-- Libraries & Tools:
-  - pandas, numpy, Selenium, scikit-learn, PyTorch
+- **Libraries & Tools**:
+  - pandas, numpy, Selenium, scikit-learn, transformers, PyTorch
   - Colab, GitHub, 
   - Stata, Microsoft Excel
 
@@ -37,7 +37,6 @@
 - Implemented scrapers to extract 3,000+ monthly district-wise rainfall and GDP records of Madhya Pradesh
 - Curated dataset of past election winners to assess the possible effect of GDP and poor rainfall on election results
 - Extracted 4,000+ Facebook comments on candidates’ posts to perform Sentiment Analysis of the public responses
-
 
 ### Data Science Intern
 #### *Indian Institute of Management Calcutta, Remote, Remote: Jun 23 - Jul 23*
