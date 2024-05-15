@@ -1,4 +1,4 @@
 ## Personal Projects
 
-1. LLaMA 3 Chatbot using Groq and Streamlit - [https://llama3-chatbot.streamlit.app/](https://llama3-chatbot.streamlit.app/)
+1. LLaMA 3 Chatbot using Groq and Streamlit, hosted on HuggingFace Spaces - [https://huggingface.co/spaces/hel0wrld/llama3-chatbot](https://huggingface.co/spaces/hel0wrld/llama3-chatbot)
 2. 
